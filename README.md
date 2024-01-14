@@ -1,2 +1,2 @@
 # Banking-system
-Basic banking system 
+Basic banking system with simple GUI
